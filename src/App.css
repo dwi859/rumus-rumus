@@ -20,3 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
+.container{
+  width:600px;
+  margin:auto;
+
+}
+
+.layout{
+  width:100%;
+  margin:auto;
+  height:100%;
+}
+
+.header{
+  width:100%;
+  margin:auto;
+  
+  float:left;
+  height:100%;
+}
